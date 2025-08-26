@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/9addb85a-5029-4555-9ad0-002d07e88a4f" width="400" align="right" alt="Coding GIF" />
 
-# 👋 Hi there, I'm Atul kr Prasad  
+# 👋 Hi there, I'm Avirup Guha Thakurata
 
 <h2>A passionate Data Scientist from India</h2>
 <br>
