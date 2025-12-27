@@ -1,135 +1,82 @@
 <img src="https://github.com/user-attachments/assets/9addb85a-5029-4555-9ad0-002d07e88a4f" width="400" align="right" alt="Coding GIF" />
 
-# 👋 Hi there, I'm Avirup Guha Thakurata
+# 👋 Hi there, I'm Avirup GuhaThakurta
 
-<h2>A passionate Data Scientist from India</h2>
-<br>
 
-## 🌐 Connect with Me  
-<p align="left">
-  <a href="https://atulkr-tech.netlify.app" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/?size=512&id=1CnGoAOeFulJ&format=png" alt="Portfolio" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+I'm a passionate $\Large\color{DeepSkyBlue}{\text{Full Stack Developer}}$ from India, driven by the desire to extract insights from complex data and build impactful solutions. Let's connect and build something great!
 
-  <a href="https://www.linkedin.com/in/atul-kr-prasad-515835266/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+---
 
-  <a href="mailto:atulkumarprasad62@gmail.com" target="_blank" rel="noreferrer" style="margin-right:10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+## 🌐 Connect with Me
 
-  <a href="https://www.instagram.com/kumar.kunal.12/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/avirupguhathakurtata-3891a2225/" target="_blank" rel="noreferrer" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="avirupguhathakurta134679@gmail.com" target="_blank" rel="noreferrer" title="Email">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40"/>
+  </a>
 </p>
 
 ---
----
+
+## 🌟 Featured Projects
 
 
-## 💻 Tech Stack  
+### **Languages & Databases**
 <p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" title="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" title="CSS3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+</p>
 
-  <a href="https://icons8.com/icon/xSkewUSqtErH/pandas" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" alt="Pandas" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-  <a href="https://icons8.com/icon/aR9CXyMagKIS/numpy" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/?size=512&id=aR9CXyMagKIS&format=png" alt="NumPy" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-  <!-- Matplotlib -->
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-                    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="50" />
-                </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/n3QRpDA7KZ7P/tensorflow.png" alt="TensorFlow" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+### **Data Analysis & Visualization**
+<p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer" title="NumPy">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title="Scikit-learn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  </a>
+  
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" title="Power BI">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+  </a>
   
 
 
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://icons8.com/icon/J0SgMWzAxqFj/jupyter" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png" alt="Jupyter" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://icons8.com/icon/F4uMFPZgS0gt/anaconda" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/?size=48&id=F4uMFPZgS0gt&format=png" alt="Anaconda" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-<a href="https://icons8.com/icon/MHcMYTljfKOr/flask" target="_blank" rel="noreferrer" style="background-color: #000; display: inline-block; border-radius: 8px;">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/flask.png" alt="Flask" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-  <a href="https://icons8.com/icon/PXTY4q2Sq2lG/javascript" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" alt="JavaScript" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-</p>
-
-
-
-
-
-
-
-
----
----
-## 📊 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrAtulHub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br>
-![](https://nirzak-streak-stats.vercel.app/?user=KrAtulHub&theme=dark&hide_border=false) <br>
-![](https://github-readme-stats.vercel.app/api?username=KrAtulHub&theme=dark&hide_border=false&include_all_commits=true&count_private=false) 
-
+### **Tools & Environment**
+<p align="left">
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer" title="Jupyter">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+  </a>
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+ 
 
 ---
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=KrAtulHub&theme=cobalt&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=KrAtulHub&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
