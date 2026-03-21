@@ -86,46 +86,62 @@ I'm a passionate $\Large\color{DeepSkyBlue}{\text{Full Stack Developer}}$ from I
 
 <br>
 🚀 Featured Projects
+<br>
 🧮 AI Calculator
+<br>
 📌 Overview
-
+<br>
 AI Calculator is a smart web-based application that understands natural language input and converts it into mathematical expressions for accurate computation. It enhances traditional calculators by making them more intuitive and user-friendly.
-
+<br>
 ✨ Features
+<br>
 🧠 Natural language processing (e.g., “add 20 and 30”)
 ⚡ Instant and accurate calculations
 🎯 Clean and modern UI design
 📱 Fully responsive for all devices
+<br>
 🛠️ Tech Stack
+<br>
 HTML5
 CSS3
 JavaScript
+<br>
 🔗 Live Demo
+<br>
 
 👉 https://avirupgt.github.io/ai-calculator/
-
-📚 What I Learned
+<br>
+📚 What I Learned 
+<br>
 Handling user input dynamically
 Converting text into logical expressions
 Improving UI/UX for better user interaction
+<br>
 📊 Ecommerce Review Dashboard
+<br>
 📌 Overview
+<br>
 
 A modern analytics dashboard designed to manage and analyze customer reviews from multiple platforms like Amazon and Flipkart. It helps businesses understand customer sentiment and improve decision-making.
-
+<br>
 ✨ Features
+<br>
 📊 Review statistics (Total, Positive %, Negative %)
 🔍 Platform-based filtering system
 🧾 Structured review listing
 🎨 Interactive and modern UI
+<br>
 🛠️ Tech Stack
+<br>
 HTML
 CSS
 JavaScript
+<br>
 🚧 Status
+<br>
 
 Currently under development with upcoming features like:
-
+<br>
 📈 Advanced analytics charts
 🤖 AI sentiment analysis
 ☁️ Backend integration
@@ -133,24 +149,30 @@ Currently under development with upcoming features like:
 Designing dashboards with better UX
 Working with dynamic filtering logic
 Structuring large data visually
+<br>
 ☁️ Cloud Bazar – Smart E-Commerce Platform
+<br>
 📌 Overview
-
+<br>
 Cloud Bazar is a cloud-based full-stack e-commerce platform built to simulate real-world online shopping systems. It focuses on scalability, performance, and clean architecture.
-
+<br>
 ✨ Features
+<br>
 🛒 Product listing and management
 🔐 User authentication system
 📦 Backend integration with database
 ⚡ Scalable architecture design
+<br>
 🛠️ Tech Stack
+<br>
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js, Express.js
 Database: MongoDB
+<br>
 🔗 GitHub Repository
-
+<br>
 👉 https://github.com/Avirupgt/Cloud-Bazar-Smart-Cloud-Based-E-Commerce-Platform
-
+<br>
 📚 What I Learned
 Full-stack development workflow
 Backend API creation
