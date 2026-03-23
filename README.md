@@ -15,6 +15,10 @@ I'm a passionate $\Large\color{DeepSkyBlue}{\text{Full Stack Developer}}$ from I
 ---
 ## 🌐 Connect with Me
 
+ &nbsp;&nbsp;&nbsp;
+  <a href="https://avirupgt.github.io/newprotfolio/" target="_blank" rel="noreferrer" title="LinkedIn">
+    <img src="" alt="" width="40" height="40"/>
+  </a>
 
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/avirupguhathakurtata-3891a2225/" target="_blank" rel="noreferrer" title="LinkedIn">
