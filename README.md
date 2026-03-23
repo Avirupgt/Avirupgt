@@ -6,6 +6,8 @@
 I'm a passionate $\Large\color{DeepSkyBlue}{\text{Full Stack Developer}}$ from India, driven by the desire to extract insights from complex data and build impactful solutions. Let's connect and build something great!
 
 ---
+Protfolio Link : https://avirupgt.github.io/newprotfolio/
+
 ### 📖 A Little About Me
 - 🔭 **Current Focus:** Building end-to-end web applications with integrated data analytics.
 - 💡 **Mission:** Transforming raw data into visual stories and functional software.
